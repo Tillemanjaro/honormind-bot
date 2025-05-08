@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+bg3_wiki_dump/
+scrape_failures.txt
+.env

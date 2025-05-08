@@ -1,0 +1,77 @@
+[2025-05-07 22:12:30] 🔍 Starting to collect all wiki links...
+[2025-05-07 22:12:57] 📄 Page 1: 345 new links (total: 345)
+[2025-05-07 22:12:57] ✅ Reached the last page of links.
+[2025-05-07 22:12:57] ✅ Finished collecting 345 total wiki page URLs.
+[2025-05-07 22:12:57] 🔎 Scraping (1/345): https://bg3.wiki/wiki/Absorb_Elements
+[2025-05-07 22:13:22] 🔎 Scraping (2/345): https://bg3.wiki/wiki/Absolute%27s_Protector
+[2025-05-07 22:13:24] 🔎 Scraping (3/345): https://bg3.wiki/wiki/Adaptable_Skullduggery
+[2025-05-07 22:13:26] 🔎 Scraping (4/345): https://bg3.wiki/wiki/Act_3
+[2025-05-07 22:13:29] 🔎 Scraping (5/345): https://bg3.wiki/wiki/Absolute_Outfit
+[2025-05-07 22:13:31] 🔎 Scraping (6/345): https://bg3.wiki/wiki/Acrobatics
+[2025-05-07 22:13:33] 🔎 Scraping (7/345): https://bg3.wiki/wiki/%27On_the_Inevitability_of_Moral_Decay_and_its_Benefits%27
+[2025-05-07 22:13:35] 🔎 Scraping (8/345): https://bg3.wiki/wiki/Abjuration_Savant
+[2025-05-07 22:13:37] 🔎 Scraping (9/345): https://bg3.wiki/wiki/Adrip_with_Kereska%27s_Acid
+[2025-05-07 22:13:40] 🔎 Scraping (10/345): https://bg3.wiki/wiki/A_mothers_loathing
+[2025-05-07 22:13:42] 🔎 Scraping (11/345): https://bg3.wiki/wiki/Acidic_Regurgitation
+[2025-05-07 22:13:44] 🔎 Scraping (12/345): https://bg3.wiki/wiki/A_Note_of_Thanks
+[2025-05-07 22:13:46] 🔎 Scraping (13/345): https://bg3.wiki/wiki/Accretion
+[2025-05-07 22:13:48] 🔎 Scraping (14/345): https://bg3.wiki/wiki/4th_Level_Spell_Scrolls
+[2025-05-07 22:13:51] 🔎 Scraping (15/345): https://bg3.wiki/wiki/Acid
+[2025-05-07 22:13:53] 🔎 Scraping (16/345): https://bg3.wiki/wiki/Advantage
+[2025-05-07 22:13:57] 🔎 Scraping (17/345): https://bg3.wiki/wiki/Absolutist_Expedition_Trunk
+[2025-05-07 22:14:00] 🔎 Scraping (18/345): https://bg3.wiki/wiki/Act_1
+[2025-05-07 22:14:02] 🔎 Scraping (19/345): https://bg3.wiki/wiki/Absolute%27s_Tempest
+[2025-05-07 22:14:04] 🔎 Scraping (20/345): https://bg3.wiki/wiki/ABC,_the_Liches_and_Me
+[2025-05-07 22:14:06] 🔎 Scraping (21/345): https://bg3.wiki/wiki/A_is_for_Azuth,_and_other_Gods_IX
+[2025-05-07 22:14:08] 🔎 Scraping (22/345): https://bg3.wiki/wiki/%27To_silence%27
+[2025-05-07 22:14:10] 🔎 Scraping (23/345): https://bg3.wiki/wiki/%27Jaheira%27
+[2025-05-07 22:14:12] 🔎 Scraping (24/345): https://bg3.wiki/wiki/A_Mother%27s_Loathing
+[2025-05-07 22:14:14] 🔎 Scraping (25/345): https://bg3.wiki/wiki/Adamantine_Forge
+[2025-05-07 22:14:16] 🔎 Scraping (26/345): https://bg3.wiki/wiki/About_to_Explode_(Condition)
+[2025-05-07 22:14:59] 🔍 Starting to collect all wiki links...
+[2025-05-07 22:15:25] 📄 Page 1: 345 new links (total: 345)
+[2025-05-07 22:15:25] ✅ Reached the last page of links.
+[2025-05-07 22:15:25] ✅ Finished collecting 345 total wiki page URLs.
+[2025-05-07 22:15:25] 🔎 Scraping (1/345): https://bg3.wiki/wiki/A_Mist_Most_Scarlet_(Condition)
+[2025-05-07 22:15:27] 🔎 Scraping (2/345): https://bg3.wiki/wiki/A%27jak%27nir_Jeera
+[2025-05-07 22:15:30] 🔎 Scraping (3/345): https://bg3.wiki/wiki/Abjure_Enemy:_Frightened_(Condition)
+[2025-05-07 22:15:33] ❌ Error scraping https://bg3.wiki/wiki/Abjure_Enemy:_Frightened_(Condition): [Errno 22] Invalid argument: 'bg3_wiki_dump\\Abjure_Enemy:_Frightened_(Condition).json'
+[2025-05-07 22:15:33] 🔎 Scraping (4/345): https://bg3.wiki/wiki/Abandoned_Refuge
+[2025-05-07 22:15:36] 🔎 Scraping (5/345): https://bg3.wiki/wiki/Adept_Ghulen
+[2025-05-07 22:15:39] 🔎 Scraping (6/345): https://bg3.wiki/wiki/Adrip_with_Kereska%27s_Acid_(Condition)
+[2025-05-07 22:15:40] 🔎 Scraping (7/345): https://bg3.wiki/wiki/Acrobatics
+[2025-05-07 22:15:43] 🔎 Scraping (8/345): https://bg3.wiki/wiki/A_Sparking_Promise
+[2025-05-07 22:15:45] 🔎 Scraping (9/345): https://bg3.wiki/wiki/Achievements
+[2025-05-07 22:15:47] 🔎 Scraping (10/345): https://bg3.wiki/wiki/A_Primer_on_Mythical_Beasts
+[2025-05-07 22:15:52] 🔎 Scraping (11/345): https://bg3.wiki/wiki/A_Wizard%27s_Tasklist
+[2025-05-07 22:15:55] 🔎 Scraping (12/345): https://bg3.wiki/wiki/Absorbed_Essence:_Amelyssan_(Condition)
+[2025-05-07 22:15:57] ❌ Error scraping https://bg3.wiki/wiki/Absorbed_Essence:_Amelyssan_(Condition): [Errno 22] Invalid argument: 'bg3_wiki_dump\\Absorbed_Essence:_Amelyssan_(Condition).json'
+[2025-05-07 22:15:57] 🔎 Scraping (13/345): https://bg3.wiki/wiki/Accelerated_Grand_Design
+[2025-05-07 22:15:59] 🔎 Scraping (14/345): https://bg3.wiki/wiki/Acid_Resistance_Aura_(Condition)
+[2025-05-07 22:16:01] 🔎 Scraping (15/345): https://bg3.wiki/wiki/Aaron
+[2025-05-07 22:16:03] 🔎 Scraping (16/345): https://bg3.wiki/wiki/Absolute_Power_(Weapon_Action)
+[2025-05-07 22:16:05] 🔎 Scraping (17/345): https://bg3.wiki/wiki/Admantine
+[2025-05-07 22:16:08] 🔎 Scraping (18/345): https://bg3.wiki/wiki/Adamantine_Shield
+[2025-05-07 22:16:10] 🔎 Scraping (19/345): https://bg3.wiki/wiki/Acolyte_Of_Nature
+[2025-05-07 22:16:11] 🔎 Scraping (20/345): https://bg3.wiki/wiki/Adamantite_forge
+[2025-05-07 22:16:14] 🔎 Scraping (21/345): https://bg3.wiki/wiki/%27One_last_chance%27
+[2025-05-07 22:17:05] 🔠 Found 0 index segments (A–Z & more).
+[2025-05-07 22:17:05] 🔍 Crawling segment: https://bg3.wiki/wiki/Special:AllPages
+[2025-05-07 22:17:08] 📄 Segment page 1: 345 new links (segment total: 345)
+[2025-05-07 22:17:08] ✅ Total unique article links collected: 345
+[2025-05-07 22:17:08] 🔎 Scraping (1/345): https://bg3.wiki/wiki/Accounting_Book_-_III
+[2025-05-07 22:17:10] 🔎 Scraping (2/345): https://bg3.wiki/wiki/Abdirak
+[2025-05-07 22:17:13] 🔎 Scraping (3/345): https://bg3.wiki/wiki/Adopters_of_Culture
+[2025-05-07 22:17:15] 🔎 Scraping (4/345): https://bg3.wiki/wiki/Abandoned_Journal_(Lower_City)
+[2025-05-07 22:17:18] 🔎 Scraping (5/345): https://bg3.wiki/wiki/Adventurers,_Our_Best_Hope_for_the_City
+[2025-05-07 22:17:19] 🔎 Scraping (6/345): https://bg3.wiki/wiki/Acrobatics
+[2025-05-07 22:17:22] 🔎 Scraping (7/345): https://bg3.wiki/wiki/Absolute%27s_Bane
+[2025-05-07 22:17:24] 🔎 Scraping (8/345): https://bg3.wiki/wiki/Adamantine_forge
+[2025-05-07 22:17:26] 🔎 Scraping (9/345): https://bg3.wiki/wiki/A_is_for_Azuth,_and_other_Gods_VI
+[2025-05-07 22:17:28] 🔎 Scraping (10/345): https://bg3.wiki/wiki/A_Traveller%27s_Guide_to_Baldur%27s_Gate
+[2025-05-07 22:17:30] 🔎 Scraping (11/345): https://bg3.wiki/wiki/A_Study_of_the_Slayer
+[2025-05-07 22:17:32] 🔎 Scraping (12/345): https://bg3.wiki/wiki/%2B1_Breastplate
+[2025-05-07 22:17:34] 🔎 Scraping (13/345): https://bg3.wiki/wiki/A_Father%27s_Diary
+[2025-05-07 22:17:37] 🔎 Scraping (14/345): https://bg3.wiki/wiki/Absolving_the_Wayward_Heart
+[2025-05-07 22:17:39] 🔎 Scraping (15/345): https://bg3.wiki/wiki/A_is_for_Azuth,_and_other_Gods_IX
+[2025-05-07 22:17:41] 🔎 Scraping (16/345): https://bg3.wiki/wiki/Absorb_Elements:_Acid_Damage_(Condition)
